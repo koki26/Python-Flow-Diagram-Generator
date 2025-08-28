@@ -1,0 +1,3 @@
+pip install pyvis
+pip install pyvis.network
+pip install jinja2
