@@ -118,7 +118,7 @@ Result:
 
 ## 👨‍💻 Contributors
 
-* **Your Name** – Creator & Maintainer
+* **Koki26** – Creator & Maintainer
 
 Contributions welcome! Feel free to open issues or pull requests.
 
